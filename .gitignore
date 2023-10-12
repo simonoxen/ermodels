@@ -1,0 +1,4 @@
+dist/*
+**/.DS_Store
+ermodels.egg-info/*
+data.zip
